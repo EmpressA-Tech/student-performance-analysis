@@ -57,6 +57,7 @@ Students living independently (hostels/rentals):
 Show greater performance volatility
 Have lower attendance rates
 Represent a higher share of the 298 probation cases
+
 **Interpretation**
 
 A structured home environment provides:
@@ -72,8 +73,10 @@ Reduced external distractions
 Language proficiency reveals a hidden academic bottleneck.
 
 **Finding**
+
 “Advanced” English speakers dominate the Excellent category
 “Intermediate” speakers form the largest group but remain stuck in “Average”
+
 **Insight**
 
 Intermediate proficiency enables basic understanding but limits:
@@ -85,11 +88,13 @@ Concept articulation
 👉 This creates a performance ceiling, not a capability issue.
 
 **📊 Study Effort vs. Study Effectiveness**
+
 **Finding**
 
 Average study time (~3.13 hours) does not consistently produce high CGPA.
 
 **Interpretation**
+
 Students are putting in time
 But lack effective study strategies
 
@@ -97,12 +102,15 @@ But lack effective study strategies
 
 3. Institutional Equalizers (What’s Working)
 💰 The Scholarship Success Effect
+
 **Finding**
 
 Despite 53.9% of students coming from low-income backgrounds, their performance is comparable to higher-income peers.
 
 **Key Driver**
+
 523 students benefit from merit-based scholarships
+
 **Interpretation**
 
 Scholarships:
@@ -119,6 +127,7 @@ Finding
 High-performing students actively engage in teacher consultancy, while struggling students avoid it.
 
 **Problem**
+
 Students on probation are least likely to seek help
 Creates a cycle of silent academic decline
 Interpretation
@@ -132,6 +141,7 @@ The issue is not availability of support—but access behavior.
 Probation: 298 students
 Health Issues: 207 students
 Suspension Cases: Present but critical
+
 **Insight**
 
 These factors are strongly associated with:
@@ -151,6 +161,7 @@ Academic performance is predictable early
 👉 Institutions currently intervene too late
 
 ## 🟢 Recommendations ; Strategic Recommendations (What Should Be Done)
+
 ✅ 1. Early Warning System Using SGPA
 
 Action:
@@ -209,8 +220,7 @@ Action:
 Provide guidance programs for students living independently
 Encourage discipline systems (study routines, peer groups)
 
-##Final Conclusion
-
+**Final Conclusion**
 This study reveals that academic success in BSCE is not driven by intelligence alone, but by a combination of:
 
 Digital discipline
