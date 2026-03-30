@@ -122,7 +122,8 @@ Enable equal participation
 👉 Financial aid is not a support tool, it is a performance equalizer.
 
 **🧠 The “Help-Seeking Paradox”**
-Finding
+
+**Finding**
 
 High-performing students actively engage in teacher consultancy, while struggling students avoid it.
 
@@ -130,13 +131,15 @@ High-performing students actively engage in teacher consultancy, while strugglin
 
 Students on probation are least likely to seek help
 Creates a cycle of silent academic decline
-Interpretation
+
+**Interpretation**
 
 The issue is not availability of support—but access behavior.
 
 👉 Those who need help most are the least likely to ask for it.
 
  **Risk Indicators** 
+ 
 🚨 Academic Risk Factors
 Probation: 298 students
 Health Issues: 207 students
@@ -149,7 +152,8 @@ These factors are strongly associated with:
 Lower CGPA
 Performance instability
 📈 Performance Consistency
-Finding
+
+**Finding**
 
 A strong positive relationship exists between:
 
@@ -221,6 +225,7 @@ Provide guidance programs for students living independently
 Encourage discipline systems (study routines, peer groups)
 
 **Final Conclusion**
+
 This study reveals that academic success in BSCE is not driven by intelligence alone, but by a combination of:
 
 Digital discipline
