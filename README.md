@@ -1,5 +1,6 @@
 ## 📊 Dashboard Preview
 ![Dashboard](1.png)
+![Dashboard](2.png)
 
 # 🎓 Student Performance Analysis
 A data-driven analysis of student academic performance using excel, Power BI and Python
