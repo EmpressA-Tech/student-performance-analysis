@@ -18,20 +18,21 @@ Using a dataset of 1,194 undergraduate students, this study moves beyond assumpt
 Rather than focusing solely on performance outcomes, this analysis uncovers the underlying drivers of success and failure, enabling actionable, data-driven interventions.
 
 ## 🧠 Key Findings; key Drivers of Performance 
-📉 The “4-Hour” Digital Threshold
+
+**📉 The “4-Hour” Digital Threshold**
 
 A clear behavioral tipping point emerges when analyzing social media usage.
 
-Finding
+**Finding**
 
 Students with Excellent CGPA (≥ 3.5) consistently limit social media usage to 1–2 hours daily.
 
-Risk Insight
+**Risk Insight**
 
 Once usage exceeds 4 hours daily, academic performance drops significantly.
 Students in the “Poor” category are heavily concentrated in the 5+ hour range.
 
-Interpretation
+**Interpretation**
 
 In a demanding program like BSCE, excessive digital consumption disrupts:
 
@@ -41,22 +42,22 @@ Cognitive endurance
 
 👉 Social media is not just a distraction—it is a measurable academic risk factor.
 
-🏠 The “Family Anchor” vs. “Bachelor” Volatility
+**🏠 The “Family Anchor” vs. “Bachelor” Volatility**
 
 Living conditions play a surprisingly strong role in performance stability.
 
-Finding
+**Finding**
 
 Students living with family exhibit more stable and consistent CGPA trends.
 
-Risk Insight
+**Risk Insight**
 
 Students living independently (hostels/rentals):
 
 Show greater performance volatility
 Have lower attendance rates
 Represent a higher share of the 298 probation cases
-Interpretation
+**Interpretation**
 
 A structured home environment provides:
 
@@ -66,14 +67,14 @@ Reduced external distractions
 
 👉 Lack of structure leads to discipline breakdown, not necessarily lack of ability.
 
-🗣️ The “Intermediate” English Ceiling
+**🗣️ The “Intermediate” English Ceiling**
 
 Language proficiency reveals a hidden academic bottleneck.
 
-Finding
+**Finding**
 “Advanced” English speakers dominate the Excellent category
 “Intermediate” speakers form the largest group but remain stuck in “Average”
-Insight
+**Insight**
 
 Intermediate proficiency enables basic understanding but limits:
 
@@ -83,12 +84,12 @@ Concept articulation
 
 👉 This creates a performance ceiling, not a capability issue.
 
-📊 Study Effort vs. Study Effectiveness
-Finding
+**📊 Study Effort vs. Study Effectiveness**
+**Finding**
 
 Average study time (~3.13 hours) does not consistently produce high CGPA.
 
-Interpretation
+**Interpretation**
 Students are putting in time
 But lack effective study strategies
 
@@ -96,13 +97,13 @@ But lack effective study strategies
 
 3. Institutional Equalizers (What’s Working)
 💰 The Scholarship Success Effect
-Finding
+**Finding**
 
 Despite 53.9% of students coming from low-income backgrounds, their performance is comparable to higher-income peers.
 
-Key Driver
+**Key Driver**
 523 students benefit from merit-based scholarships
-Interpretation
+**Interpretation**
 
 Scholarships:
 
@@ -110,14 +111,14 @@ Reduce financial stress
 Improve academic focus
 Enable equal participation
 
-👉 Financial aid is not a support tool—it is a performance equalizer.
+👉 Financial aid is not a support tool, it is a performance equalizer.
 
-🧠 The “Help-Seeking Paradox”
+**🧠 The “Help-Seeking Paradox”**
 Finding
 
 High-performing students actively engage in teacher consultancy, while struggling students avoid it.
 
-Problem
+**Problem**
 Students on probation are least likely to seek help
 Creates a cycle of silent academic decline
 Interpretation
@@ -126,12 +127,12 @@ The issue is not availability of support—but access behavior.
 
 👉 Those who need help most are the least likely to ask for it.
 
-4. Risk Indicators (Early Warning Signals)
+ **Risk Indicators** 
 🚨 Academic Risk Factors
 Probation: 298 students
 Health Issues: 207 students
 Suspension Cases: Present but critical
-Insight
+**Insight**
 
 These factors are strongly associated with:
 
@@ -207,7 +208,8 @@ Action:
 
 Provide guidance programs for students living independently
 Encourage discipline systems (study routines, peer groups)
-6. Final Conclusion
+
+##Final Conclusion
 
 This study reveals that academic success in BSCE is not driven by intelligence alone, but by a combination of:
 
