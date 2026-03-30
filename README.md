@@ -1,4 +1,4 @@
-# student-performance-analysis
+# 🎓 Student Performance Analysis
 A data-driven analysis of student academic performance using excel, Power BI and Python
 
 🎓 Research Report
@@ -6,17 +6,18 @@ Deciphering Student Performance in BSCE
 
 A Data-Driven Study of 1,194 Undergraduates
 
-1. Project Overview
-
+## 📌 Project Overview
 This research was conducted to address a critical question in higher education:
 
 What truly drives academic success in a high-pressure Computer Engineering (BSCE) program?
+
+## 📊 Dataset Description
 
 Using a dataset of 1,194 undergraduate students, this study moves beyond assumptions and identifies the behavioral, environmental, and socio-economic factors that determine whether a student achieves academic excellence or falls into academic risk.
 
 Rather than focusing solely on performance outcomes, this analysis uncovers the underlying drivers of success and failure, enabling actionable, data-driven interventions.
 
-2. Key Drivers of Performance (The “Why”)
+## 🧠 Key Findings; key Drivers of Performance 
 📉 The “4-Hour” Digital Threshold
 
 A clear behavioral tipping point emerges when analyzing social media usage.
@@ -148,7 +149,7 @@ Academic performance is predictable early
 
 👉 Institutions currently intervene too late
 
-5. Strategic Recommendations (What Should Be Done)
+## 🟢 Recommendations ; Strategic Recommendations (What Should Be Done)
 ✅ 1. Early Warning System Using SGPA
 
 Action:
