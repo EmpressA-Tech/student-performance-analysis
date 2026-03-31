@@ -3,246 +3,156 @@
 ![Dashboard](2.png)
 
 # 🎓 Student Performance Analysis
-A data-driven analysis of student academic performance using excel, Power BI and Python
 
-🎓 Research Report
-Deciphering Student Performance in BSCE
+## 📌 Overview
 
-A Data-Driven Study of 1,194 Undergraduates
+This project analyzes student academic performance within a Computer Engineering (BSCE) program to uncover the key factors influencing success and failure.
 
-## 📌 Project Overview
-This research was conducted to address a critical question in higher education:
+Using data from **1,194 students**, the goal was not just to visualize trends, but to answer three critical questions:
 
-What truly drives academic success in a high-pressure Computer Engineering (BSCE) program?
+- What is going wrong?
+- Why does it matter?
+- What should be done?
 
-## 📊 Dataset Description
+The analysis moves beyond dashboards to deliver **actionable insights** that institutions can use to improve student outcomes.
 
-Using a dataset of 1,194 undergraduate students, this study moves beyond assumptions and identifies the behavioral, environmental, and socio-economic factors that determine whether a student achieves academic excellence or falls into academic risk.
+---
 
-Rather than focusing solely on performance outcomes, this analysis uncovers the underlying drivers of success and failure, enabling actionable, data-driven interventions.
+## 📊 Dataset
 
-## 🧠 Key Findings; key Drivers of Performance 
+The dataset consists of **1,194 undergraduate students** and includes:
 
-**📉 The “4-Hour” Digital Threshold**
+- **Academic Data:** CGPA, study hours, previous SGPA  
+- **Lifestyle Factors:** Social media usage, skill development hours, learning mode  
+- **Socio-economic Data:** Family income, scholarship status  
+- **Wellbeing Indicators:** Health issues, probation, suspension  
+- **Personal Factors:** Gender, relationship status, living condition  
 
-A clear behavioral tipping point emerges when analyzing social media usage.
+These variables enable a **multi-dimensional analysis** of student performance.
 
-**Finding**
+---
 
-Students with Excellent CGPA (≥ 3.5) consistently limit social media usage to 1–2 hours daily.
+## 🧠 Key Insights
 
-**Risk Insight**
+### 📉 The “4-Hour” Digital Threshold  
+Students with **Excellent CGPA (≥ 3.5)** consistently limit social media usage to **1–2 hours daily**.  
+Once usage exceeds **4 hours**, performance drops significantly, with most low-performing students spending 5+ hours.
 
-Once usage exceeds 4 hours daily, academic performance drops significantly.
-Students in the “Poor” category are heavily concentrated in the 5+ hour range.
+👉 Digital distraction is a major inhibitor of academic success.
 
-**Interpretation**
+---
 
-In a demanding program like BSCE, excessive digital consumption disrupts:
+### 🏠 Living Condition Influences Performance Stability  
+Students living with **family** show more consistent academic performance.  
+Those living independently (hostels/rentals) display **higher variability** and represent a larger share of probation cases.
 
-Focus
-Deep work
-Cognitive endurance
+👉 Structure and environment significantly affect discipline and outcomes.
 
-👉 Social media is not just a distraction—it is a measurable academic risk factor.
+---
 
-**🏠 The “Family Anchor” vs. “Bachelor” Volatility**
+### 🗣️ The “Intermediate” English Ceiling  
+Students with **advanced English proficiency** dominate the excellent category, while those at **intermediate level** tend to remain in the average category.
 
-Living conditions play a surprisingly strong role in performance stability.
+👉 Intermediate proficiency creates a learning ceiling, especially in understanding technical materials.
 
-**Finding**
+---
 
-Students living with family exhibit more stable and consistent CGPA trends.
+### 📊 Study Effort ≠ Study Effectiveness  
+Despite an average of **3.13 study hours daily**, performance does not consistently improve.
 
-**Risk Insight**
+👉 Students are studying, but not effectively which means there is a gap in study techniques.
 
-Students living independently (hostels/rentals):
+---
 
-Show greater performance volatility
-Have lower attendance rates
-Represent a higher share of the 298 probation cases
+### 💰 Scholarships Act as a Performance Equalizer  
+Despite **53.9% of students being from low-income backgrounds**, performance remains comparable across income groups.
 
-**Interpretation**
+👉 Scholarships play a critical role in maintaining academic balance and reducing inequality.
 
-A structured home environment provides:
+---
 
-Routine
-Accountability
-Reduced external distractions
+### 🧠 The “Help-Seeking Paradox”  
+High-performing students actively seek academic support, while struggling students (including those on probation) are less likely to do so.
 
-👉 Lack of structure leads to discipline breakdown, not necessarily lack of ability.
+👉 The students who need help the most are the least likely to ask for it.
 
-**🗣️ The “Intermediate” English Ceiling**
+---
 
-Language proficiency reveals a hidden academic bottleneck.
+## 📉 Problems Identified
 
-**Finding**
+- Excessive **social media usage** is negatively impacting academic performance  
+- Lack of **structured study habits** reduces effectiveness of study time  
+- Students living independently face **discipline and consistency challenges**  
+- **Intermediate English proficiency** limits full academic potential  
+- At-risk students (probation, health issues) are **identified too late**  
+- Struggling students often **avoid academic support systems**  
 
-“Advanced” English speakers dominate the Excellent category
-“Intermediate” speakers form the largest group but remain stuck in “Average”
+---
 
-**Insight**
+## ⚠️ Why It Matters
 
-Intermediate proficiency enables basic understanding but limits:
+- Declining academic performance reduces **institutional quality and reputation**  
+- Increased cases of probation and suspension raise **dropout risks**  
+- Poor academic outcomes lead to **less employable graduates**  
+- Educational resources are not being fully utilized  
+- Without early intervention, small struggles escalate into major academic failure  
 
-Technical comprehension
-Documentation mastery
-Concept articulation
+---
 
-👉 This creates a performance ceiling, not a capability issue.
+## 🟢 Recommendations
 
-**📊 Study Effort vs. Study Effectiveness**
+### ✅ 1. Early Warning System  
+Use previous SGPA to identify at-risk students early and intervene proactively.
 
-**Finding**
+---
 
-Average study time (~3.13 hours) does not consistently produce high CGPA.
+### ✅ 2. Mandatory Academic Support  
+Require consultancy sessions for students with:
+- Low attendance  
+- Declining CGPA  
 
-**Interpretation**
+---
 
-Students are putting in time
-But lack effective study strategies
+### ✅ 3. Digital Discipline Programs  
+Educate students on time management and reduce excessive social media usage.
 
-👉 Effort without structure = diminishing returns
+---
 
-3. Institutional Equalizers (What’s Working)
-💰 The Scholarship Success Effect
+### ✅ 4. Technical English Development  
+Introduce courses focused on:
+- Technical communication  
+- Academic comprehension  
 
-**Finding**
+---
 
-Despite 53.9% of students coming from low-income backgrounds, their performance is comparable to higher-income peers.
+### ✅ 5. Skill Development Integration  
+Encourage or mandate participation in skill-building activities to improve engagement and performance.
 
-**Key Driver**
+---
 
-523 students benefit from merit-based scholarships
+### ✅ 6. Structured Support for Independent Students  
+Provide guidance programs to help students living alone maintain discipline and consistency.
 
-**Interpretation**
+---
 
-Scholarships:
+## 🛠 Tools Used
 
-Reduce financial stress
-Improve academic focus
-Enable equal participation
+- Power BI  
+- Python 
+- Excel 
 
-👉 Financial aid is not a support tool, it is a performance equalizer.
+---
 
-**🧠 The “Help-Seeking Paradox”**
+## 🚀 Conclusion
 
-**Finding**
+This analysis shows that academic success is not driven by intelligence alone, but by a combination of:
 
-High-performing students actively engage in teacher consultancy, while struggling students avoid it.
+- Digital discipline  
+- Structured environment  
+- Language proficiency  
+- Access to support systems  
 
-**Problem**
+> Students do not fail because they lack ability—they fail because they lack structure, support, and early intervention.
 
-Students on probation are least likely to seek help
-Creates a cycle of silent academic decline
-
-**Interpretation**
-
-The issue is not availability of support—but access behavior.
-
-👉 Those who need help most are the least likely to ask for it.
-
- **Risk Indicators** 
- 
-🚨 Academic Risk Factors
-Probation: 298 students
-Health Issues: 207 students
-Suspension Cases: Present but critical
-
-**Insight**
-
-These factors are strongly associated with:
-
-Lower CGPA
-Performance instability
-📈 Performance Consistency
-
-**Finding**
-
-A strong positive relationship exists between:
-
-Previous SGPA and Current CGPA (~0.75 correlation)
-Interpretation
-
-Academic performance is predictable early
-
-👉 Institutions currently intervene too late
-
-## 🟢 Recommendations ; Strategic Recommendations (What Should Be Done)
-
-✅ 1. Early Warning System Using SGPA
-
-Action:
-
-Flag at-risk students within the first month
-Use previous academic records as predictors
-
-👉 Shift from reactive → proactive intervention
-
-✅ 2. Mandatory Academic Consultancy
-
-Action:
-
-Enforce compulsory check-ins for:
-Students with <80% attendance
-Students below CGPA threshold
-
-👉 Remove dependency on student self-initiation
-
-✅ 3. Digital Discipline Framework
-
-Action:
-
-Introduce structured time management programs
-Educate students on “deep work” principles
-
-👉 Address root cause of distraction
-
-✅ 4. Technical English Development Program
-
-Action:
-
-Introduce a Technical Communication module
-Focus on:
-Documentation
-Interpretation
-Technical writing
-
-👉 Break the “Intermediate ceiling”
-
-✅ 5. Gap-Year Academic Bootcamp
-
-Action:
-
-Provide pre-semester refresher programs
-Focus on:
-Mathematics
-Logical reasoning
-
-👉 Restore academic momentum
-
-✅ 6. Structured Living Support
-
-Action:
-
-Provide guidance programs for students living independently
-Encourage discipline systems (study routines, peer groups)
-
-**Final Conclusion**
-
-This study reveals that academic success in BSCE is not driven by intelligence alone, but by a combination of:
-
-Digital discipline
-Structured environment
-Language proficiency
-Proactive institutional support
-
-Students do not fail because they lack ability—they fail because systems fail to support their behavior early enough.
-
-By:
-
-Strengthening early intervention systems
-Encouraging structured habits
-Maintaining financial support
-
+By focusing on these areas, institutions can move from reactive support to proactive student success strategies.
 👉 Institutions can transform average performers into excellent engineers
